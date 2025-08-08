@@ -71,4 +71,21 @@ To build and evaluate a Logistic Regression model to:
 1. **Clone this repo**:
    ```bash
    git clone https://github.com/NampallyNihal/Logistic-Regression-Breast-Cancer.git
+2. Open `Classification with Logistic Regression.ipynb` in Jupyter or Google Colab.
 
+3. Run all cells.
+
+---
+
+## 🙋‍♂️ Author
+
+**Nihal Nampally**  
+🎓 B.Tech, AI & ML  
+📧 nihalnampally@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/nihal-nampally/) | [GitHub](https://github.com/NampllayNihal)
+
+---
+
+## 🏷️ Tags
+
+`#MachineLearning #LogisticRegression #Classification #Python #ScikitLearn #BreastCancer #DataScience`
